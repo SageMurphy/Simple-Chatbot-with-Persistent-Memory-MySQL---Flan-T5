@@ -1,4 +1,4 @@
-# Simple Chatbot with Persistent Memory (MySQL) - Flan-T5
+# Simple Chatbot with Persistent Memory (MySQL) - Flan-T5 (NOT FINE-TUNED)
 
 This is a simple chatbot built using Streamlit, Flan-T5, and MySQL for persistent memory. The chatbot can detect user intent, respond accordingly, analyze sentiment, and summarize long conversations.
 
@@ -8,6 +8,11 @@ This is a simple chatbot built using Streamlit, Flan-T5, and MySQL for persisten
 - **Sentiment Analysis:** Determines whether the user's input is positive or negative.
 - **Conversation Summarization:** Condenses long conversations when needed.
 - **Persistent Memory:** Stores conversations in a MySQL database.
+## Preview
+
+![2025-03-07T12_57_21 183Z](https://github.com/user-attachments/assets/ae78343e-c75a-403e-99f1-ff8289112082)
+
+
 
 ## Requirements
 Ensure you have the following installed before running the chatbot:
