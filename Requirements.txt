@@ -1,0 +1,8 @@
+streamlit
+transformers
+sqlalchemy
+mysql-connector-python
+scikit-learn
+torch
+sentence-transformers
+datetime
